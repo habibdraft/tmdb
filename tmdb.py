@@ -42,7 +42,7 @@ df_time_columns = ['id', 'release_date', 'day', 'month', 'year', 'day_of_week']
 
 df[df_columns].to_csv('tmdb_movies_fact_table.csv')
 df_genres.to_csv('tmdb_genres_dimension_table.csv')
-df[df_time_columns].to_csv('tbmd_datetimes_dimension_table.csv')
+df[df_time_columns].to_csv('tmdb_datetimes_dimension_table.csv')
 
 
 
