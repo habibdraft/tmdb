@@ -1,6 +1,6 @@
-# WM Project
+# The Movie Database ETL
 
-SQL Challenges:
+SQL:
 1. sorting.sql - Alphabetical sorting query
 2. employee_projects.sql - Query to return the most senior people on the org chart assigned to each project
 
