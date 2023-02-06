@@ -1,4 +1,4 @@
-# The Movie Database ETL
+# The Movie Database pipeline
 
 Python ETL:
 1. tmdb.py - Extract data from themoviedb.org database, create fact and dimension tables, and write to csv
